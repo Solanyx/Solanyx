@@ -2,6 +2,6 @@ Solanyx is an ecosystem on the Solana network that aims to deliver a Gaming, NFT
 
 - 📫 Hello@solanyx.com
 - 🌐 solanyx.com
-- 📣 https://discord.gg/6UbGGxw6
+- 📣 https://discord.gg/solanyx
 - 📣 https://twitter.com/solanyxnft
 - 📣 https://t.me/solanyxofficial
